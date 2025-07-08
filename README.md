@@ -10,11 +10,17 @@ This project predicts whether a sonar reading corresponds to a **mine** or a **r
 ## 📁 Project Structure
 
 Underwater_Mine_Detection/
+
 ├── sonar.csv 
+
 ├── finalized_model_LR.sav 
+
 ├── main_training.py 
+
 ├── gui_predictor.py 
+
 ├── image1.jpg 
+
 ├── README.md 
 
 ---
