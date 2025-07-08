@@ -44,39 +44,6 @@ Underwater_Mine_Detection/
 
 ---
 
-## 🚀 How to Run the Project
-
-### 🔧 Step 1: Install Dependencies
-
-```bash
-pip install numpy pandas scikit-learn pillow
-
-### 🧪 Step 2: Train the Model
-
-```bash
-python main_training.py
-
-### 🖥️ Step 3: Launch the GUI
-
-```bash
-python gui_predictor.py
-
-### 🧾 Sample Inputs
-
-✅ Predict Mine (💣)
-Freq1: 0.40
-Freq2: 0.38
-Freq3: 0.36
-Freq4: 0.42
-Freq5: 0.44
-
-❌ Predict Rock (🪨)
-Freq1: 0.02
-Freq2: 0.04
-Freq3: 0.01
-Freq4: 0.03
-Freq5: 0.05
-
 ## 👨‍💻 Contributors
 Sudeep T S
 
@@ -85,6 +52,8 @@ Chandana K
 Sai Sreeya T
 
 Shreyas N B
+
+---
 
 ## 📚 Dataset Reference
 UCI Machine Learning Repository:
